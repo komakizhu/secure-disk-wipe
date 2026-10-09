@@ -1,0 +1,4 @@
+interface:
+  display_name: "Secure Disk Wipe"
+  short_description: "Safely wipe a Mac disk with confirmations and progress"
+  default_prompt: "Use $secure-disk-wipe to identify the requested external disk, confirm its identity twice, and run the overwrite script with a live percentage progress bar."
